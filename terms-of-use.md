@@ -1,6 +1,6 @@
 # Kullanım Koşulları  
 
-**Son Güncelleme: [Tarih]**  
+**Son Güncelleme: [14.02.2025]**  
 
 Bu belge, CityConnect uygulamasının kullanım şartlarını belirler.  
 
